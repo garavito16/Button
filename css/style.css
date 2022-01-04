@@ -1,0 +1,30 @@
+.bloque {
+    display: block;
+    margin-bottom: 20px;
+}
+#search {
+    width: 100px;
+    border: 1px solid skyblue;
+    color: skyblue;
+    background-color: white;
+    border-radius: 10px;
+}
+
+#suma {
+    height: 30px;
+    width: 30px;
+    color: white;
+    background-color: green;
+    border-radius: 50%;
+    border: 0px;
+    font-weight: bold;
+}
+
+#crear {
+    height: 30px;
+    width: 150px;
+    color: white;
+    background-color: steelblue;
+    border: 2px solid black;
+    box-shadow: 4px 4px black;
+}
